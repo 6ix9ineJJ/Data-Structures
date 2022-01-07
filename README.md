@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @6ix9ineJJ a student and a codestalker
-- 👀 Fun fact : I love to  sketch and reading poetry
+- 👋 Hi, I’m @6ix9ineJJ a student & codestalker
+- 👀 Fun fact : I love to sketch and poetry
 - 🌱 I’m currently learning everyhting
 - 💞️ I’m looking to help everyone
 - 📫 How to reach me ...
