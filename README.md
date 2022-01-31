@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6ix9ineJJ a student & codestalker
-- 👀 Fun fact : I love to sketch and poetry
-- 🌱 I’m currently learning everyhting
-- 💞️ I’m looking to help everyone
+- 👀 Fun fact : I love to sketch.
+- 🌱 I’m currently learning everything.
+- 💞️ I’m looking to help everyone.
 - 📫 How to reach me ...
 
 <!---
